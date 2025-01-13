@@ -1,2 +1,7 @@
-# escapism_price
-Data analysis to analyze the costs of escapism with current global events
+# my-portfolio
+my portfolio
+
+
+https://cristina-irene-fortiz.github.io/my-portfolio/
+
+test
